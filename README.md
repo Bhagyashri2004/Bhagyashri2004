@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhagyashri Bhadane
 
-Welcome to my GitHub profile! I'm passionate about technology and open-source contributions. Here you can explore my projects, contributions, and collaborations.
+Welcome to my GitHub profile!🎓 I'm a B.Tech Data Science student, graduating in 2026
 
 ## 👀 Interests
 - 💻 Software Development
