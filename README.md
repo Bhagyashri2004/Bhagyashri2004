@@ -26,19 +26,7 @@ I'm open to collaborating on:
 ## 📫 Reach Me
 You can contact me through:
 - 📧 Email: bhagyashreebhadane66@gmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/yogesh-udesing-girase
-
 ## 😄 Pronouns
 - she/Her
 
 
-
-### 📚 My GitHub Stats
-
-![Yogesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiraseYogesh&show_icons=true&count_private=true&hide=prs&theme=radical)
-
----
-
-### 🔗 Connect With Me
-
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! Let's connect and build something awesome together!
