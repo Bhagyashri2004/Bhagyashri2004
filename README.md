@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Bhagyashri Bhadane
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! I'm passionate about solving real-world problems through intelligent and creative software.
 
-🎓 I'm a B.Tech Artificial Intelligence & Machine Learning student, graduating in 2026
+🎓 I'm currently a final-year B.Tech student specializing in **Artificial Intelligence & Machine Learning**, graduating in **2026**.
+
+---
 
 ## 👀 Interests
 - 💻 Software Development
@@ -11,24 +13,37 @@ Welcome to my GitHub profile!
 - 🚀 Cloud Computing
 - 🔒 Cybersecurity
 
-## 🌱 Current Learning
-I'm currently focusing on:
+---
+
+## 🌱 Currently Learning
+I'm currently diving deeper into:
 - 📈 Machine Learning Algorithms
-- 🌍 Building full-stack web applications
-- ☁️ Exploring AWS and other cloud platforms
-- 🔍 Cybersecurity best practices
+- 🌍 Full-Stack Web Application Development
+- ☁️ Cloud Platforms like AWS
+- 🔐 Cybersecurity Best Practices
 
-## 💞️ Collaboration Opportunities
-I'm open to collaborating on:
-- Open-source software projects
-- Building web and mobile applications
-- Data science research and experiments
-- Contributing to machine learning model development
+---
 
-## 📫 Reach Me
-You can contact me through:
-- 📧 Email: bhagyashreebhadane66@gmail.com
+## 🤝 Collaboration Opportunities
+I'm open to working on:
+- 🔓 Open-source software projects
+- 🧠 ML/DL model development
+- 📱 Web or mobile applications
+- 📊 Data Science research and experiments
+
+---
+
+## 📫 Contact Me
+- 📧 Email: **bhagyashreebhadane66@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhagyashree-bhadane-645424257)
+- 🍴 [CodeChef](https://www.codechef.com/users/bhagyashri_29)
+- 🐙 [GitHub](https://github.com/Bhagyashri2004)
+
+---
+
 ## 😄 Pronouns
-- she/Her
+- **She/Her**
 
+---
 
+_Thanks for visiting my profile! Let’s connect and build something amazing together!_
