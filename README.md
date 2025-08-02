@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Bhagyashri Bhadane
 
 Welcome to my GitHub profile!
+
 🎓 I'm a B.Tech Artificial Intelligence & Machine Learning student, graduating in 2026
 
 ## 👀 Interests
